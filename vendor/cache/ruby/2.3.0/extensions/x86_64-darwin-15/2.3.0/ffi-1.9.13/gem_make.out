@@ -1,5 +1,9 @@
 current directory: /Users/huangshaohua/Desktop/rorstudy/hello_app/vendor/cache/ruby/2.3.0/gems/ffi-1.9.13/ext/ffi_c
+<<<<<<< HEAD
 /Users/huangshaohua/.rvm/rubies/ruby-2.3.0/bin/ruby -r ./siteconf20160708-2499-1ln4yjh.rb extconf.rb
+=======
+/Users/huangshaohua/.rvm/rubies/ruby-2.3.0/bin/ruby -r ./siteconf20160707-20211-1th1r37.rb extconf.rb
+>>>>>>> master
 checking for ffi.h... no
 checking for ffi.h in /usr/local/include,/usr/include/ffi... yes
 checking for ffi_call() in -lffi... yes
@@ -61,4 +65,8 @@ linking shared-object ffi_c.bundle
 
 current directory: /Users/huangshaohua/Desktop/rorstudy/hello_app/vendor/cache/ruby/2.3.0/gems/ffi-1.9.13/ext/ffi_c
 make "DESTDIR=" install
+<<<<<<< HEAD
 /usr/bin/install -c -m 0755 ffi_c.bundle ./.gem.20160708-2499-1bo2bfo
+=======
+/usr/bin/install -c -m 0755 ffi_c.bundle ./.gem.20160707-20211-bz7ryt
+>>>>>>> master

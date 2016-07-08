@@ -1,5 +1,9 @@
 current directory: /Users/huangshaohua/Desktop/rorstudy/hello_app/vendor/cache/ruby/2.3.0/gems/sqlite3-1.3.11/ext/sqlite3
+<<<<<<< HEAD
 /Users/huangshaohua/.rvm/rubies/ruby-2.3.0/bin/ruby -r ./siteconf20160708-2499-oa8xc5.rb extconf.rb
+=======
+/Users/huangshaohua/.rvm/rubies/ruby-2.3.0/bin/ruby -r ./siteconf20160707-20211-1b9fryn.rb extconf.rb
+>>>>>>> master
 checking for sqlite3.h... yes
 checking for sqlite3_libversion_number() in -lsqlite3... yes
 checking for rb_proc_arity()... yes
@@ -33,4 +37,8 @@ linking shared-object sqlite3/sqlite3_native.bundle
 
 current directory: /Users/huangshaohua/Desktop/rorstudy/hello_app/vendor/cache/ruby/2.3.0/gems/sqlite3-1.3.11/ext/sqlite3
 make "DESTDIR=" install
+<<<<<<< HEAD
 /usr/bin/install -c -m 0755 sqlite3_native.bundle ./.gem.20160708-2499-c06g6r/sqlite3
+=======
+/usr/bin/install -c -m 0755 sqlite3_native.bundle ./.gem.20160707-20211-192x27d/sqlite3
+>>>>>>> master

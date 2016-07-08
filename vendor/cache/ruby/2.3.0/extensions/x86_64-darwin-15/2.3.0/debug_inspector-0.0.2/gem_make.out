@@ -1,5 +1,9 @@
 current directory: /Users/huangshaohua/Desktop/rorstudy/hello_app/vendor/cache/ruby/2.3.0/gems/debug_inspector-0.0.2/ext/debug_inspector
+<<<<<<< HEAD
 /Users/huangshaohua/.rvm/rubies/ruby-2.3.0/bin/ruby -r ./siteconf20160708-2499-prxanq.rb extconf.rb
+=======
+/Users/huangshaohua/.rvm/rubies/ruby-2.3.0/bin/ruby -r ./siteconf20160707-20211-imvnkh.rb extconf.rb
+>>>>>>> master
 creating Makefile
 
 current directory: /Users/huangshaohua/Desktop/rorstudy/hello_app/vendor/cache/ruby/2.3.0/gems/debug_inspector-0.0.2/ext/debug_inspector
@@ -12,4 +16,8 @@ linking shared-object debug_inspector.bundle
 
 current directory: /Users/huangshaohua/Desktop/rorstudy/hello_app/vendor/cache/ruby/2.3.0/gems/debug_inspector-0.0.2/ext/debug_inspector
 make "DESTDIR=" install
+<<<<<<< HEAD
 /usr/bin/install -c -m 0755 debug_inspector.bundle ./.gem.20160708-2499-3d330h
+=======
+/usr/bin/install -c -m 0755 debug_inspector.bundle ./.gem.20160707-20211-u6gtux
+>>>>>>> master
